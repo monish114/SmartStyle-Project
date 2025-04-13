@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1065326063750",
+    "project_id": "auth-wardrobeapp",
+    "storage_bucket": "auth-wardrobeapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1065326063750:android:6ff04f492b758a98406107",
+        "android_client_info": {
+          "package_name": "com.example.smartwardrobe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "Firebase API"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1065326063750:android:082ffa2a437dc4cb406107",
+        "android_client_info": {
+          "package_name": "com.example.wardrobeapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "Firebase API"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
