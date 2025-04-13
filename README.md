@@ -21,7 +21,7 @@
 
 ---
 
-## 📱 Technologies Used
+## Technologies Used
 
 - **Flutter** – For the mobile app interface
 - **Python** – Backend ML scripts and API integration
@@ -31,7 +31,7 @@
 
 ---
 
-## 🛠 Setup Instructions
+##  Setup Instructions
 
 1. **Clone the Repository**
 
