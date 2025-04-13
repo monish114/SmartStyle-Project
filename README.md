@@ -2,6 +2,9 @@
 
 **SmartStyle** is an AI-based smart wardrobe assistant that helps users choose the perfect outfit based on their **mood (detected via phone camera), current weather**, and **occasion**. It’s designed to save time, personalize fashion, and bring smart automation to daily clothing decisions.
 
+## Demo Video
+https://drive.google.com/file/d/1IzDVSTNqclCBaswjFOO_CmgWfjc8M23n/view?usp=drive_link
+
 ## Features
 
 - **Mood-Based Outfit Selection**  
