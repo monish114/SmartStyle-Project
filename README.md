@@ -36,5 +36,5 @@
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/your-username/SmartStyle.git
+   git clone https://github.com/monish114/SmartStyle-Project.git
    cd SmartStyle
