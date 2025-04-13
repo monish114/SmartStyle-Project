@@ -1,16 +1,40 @@
-# wardrobeapp
+# SmartStyle - AI-Powered Smart Wardrobe
 
-A new Flutter project.
+**SmartStyle** is an AI-based smart wardrobe assistant that helps users choose the perfect outfit based on their **mood (detected via phone camera), current weather**, and **occasion**. It’s designed to save time, personalize fashion, and bring smart automation to daily clothing decisions.
 
-## Getting Started
+## 🚀 Features
 
-This project is a starting point for a Flutter application.
+- **Mood-Based Outfit Selection**  
+  Detects your current mood using facial analysis via Phone camera and selects matching outfits.
 
-A few resources to get you started if this is your first Flutter project:
+- **Weather Integration**  
+  Syncs with real-time weather APIs to suggest clothes suitable for the current conditions.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Occasion-Based Filtering**  
+  Choose the event type(casual or formal), and SmartStyle filters the outfits accordingly.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Smart Wardrobe Scanning**  
+  Upload images of your clothes via the mobile app — they are auto-classified and added to the virtual wardrobe.
+
+- 🧠 **Machine Learning-Powered**  
+  Uses ML for mood detection, color classification, and weather-occasion-outfit prediction.
+
+---
+
+## 📱 Technologies Used
+
+- **Flutter** – For the mobile app interface
+- **Python** – Backend ML scripts and API integration
+- **TensorFlow Lite** – On-device mood/emotion and clothes recognition model
+- **Firebase** – Authentication, image storage, and wardrobe DB 
+- **OpenWeatherMap API** – For real-time weather data
+
+---
+
+## 🛠 Setup Instructions
+
+1. **Clone the Repository**
+
+   ```bash
+   git clone https://github.com/your-username/SmartStyle.git
+   cd SmartStyle
